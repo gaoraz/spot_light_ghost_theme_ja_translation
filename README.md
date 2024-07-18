@@ -1,0 +1,1 @@
+# spot_light_ghost_theme_ja_translation
