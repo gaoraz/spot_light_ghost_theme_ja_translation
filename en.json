@@ -56,7 +56,7 @@
   "Latest": "Latest",
   "A collection of": "A collection of",
   "This post is for paying subscribers only": "This post is for paying subscribers only",
-  "Sign up or upgarde your account now to read the post and get access to the full library of posts for paid subscribers only.": "Sign up or upgarde your account now to read the post and get access to the full library of posts for paid subscribers only.",
+  "Sign up or upgrade your account now to read the post and get access to the full library of posts for paid subscribers only.": "Sign up or upgrade your account now to read the post and get access to the full library of posts for paid subscribers only.",
   "This post is for subscribers only": "This post is for subscribers only",
   "Sign up now to read the post and get access to the full library of posts for subscribers only.": "Sign up now to read the post and get access to the full library of posts for subscribers only.",
   "This post is for subscribers on the": "This post is for subscribers on the",
@@ -124,5 +124,14 @@
   "Featured post": "Featured post",
   "Only for members": "Only for members",
   "Only for paid members": "Only for paid members",
-  "For specific tier(s) members": "For specific tier(s) members"
+  "For specific tier(s) members": "For specific tier(s) members",
+  "Copyright ©": "Copyright © ",
+  "Published with": "Published with",
+  "linkedin link": "linkedin link",
+  "bluesky link": "bluesky link",
+  "threads link": "threads link",
+  "mastodon link": "mastodon link",
+  "tiktok link": "tiktok link",
+  "youtube link": "youtube link",
+  "instagram link": "instagram link"
 }
